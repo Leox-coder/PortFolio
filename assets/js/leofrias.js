@@ -48,7 +48,7 @@ $(window).on("load", function() {
 function initMap() {
 // Styles a map in night mode.
     var map = new google.maps.Map(document.getElementById('map'), {
-        center: {lat:-32.417468009939036, lng: -63.2508936036977},
+        center: {lat:40.86559967526884,  lng: -74.41689919482026},
         zoom: 12,
         scrollwheel:  false,
         navigationControl: false,
