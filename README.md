@@ -9,7 +9,7 @@ Me especializo en la creación de aplicaciones web y de escritorio, APIs RESTful
 - **Frameworks y Librerías:** Django, Flask, Spring Boot, PyQt, Qt Designer, JWT, Spring Security, Angular 
 - **Bases de datos:** MySQL, PostgreSQL, MongoDB
 - **Herramientas:** Git, GitHub, Postman, VS Code, IntelliJ, NetBeans; Swagger
-- **Otros:** Diseño responsivo, control de versiones, documentación técnica
+- **Otros:** Diseño responsivo, control de versiones, documentación técnica, E-commerce, TiendaNUbe, TiendaMia
 
 ## 🛠️ Proyectos Destacados
 
